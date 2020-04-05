@@ -37,7 +37,7 @@ Training the model
 X = customers[['Avg. Session Length', 'Time on App', 'Time on Website', 'Length of Membership']]
 y = customers['Yearly Amount Spent']
 
-#solit dataset into taring and testing sets
+#split dataset into taring and testing sets
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=101)
 
