@@ -1,5 +1,5 @@
 # Ecommerce-company-strategy
-This project is a part of the Python fpr data science and machine learning bootcamp. 
+This project is a part of the Python for data science and machine learning bootcamp. 
 
 #### Project Summary 
 An Ecommerce company based in New York City sells clothing online, but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.
